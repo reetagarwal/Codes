@@ -1,5 +1,5 @@
 //Iterative approach
-
+//Binary search
 #include<stdio.h>
 
 int binarysearch(int start,int end,int arr[],int el){
